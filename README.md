@@ -19,7 +19,7 @@ This repository is my training log for AtCoder.　
 | [AtCoder Beginner Contest 429 - problem_B](https://atcoder.jp/contests/abc429/tasks/abc429_b) | [atcoder3.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder3.ipynb) | Refactored an O(N^2) solution to O(N) by pre-calculating the total sum outside the loop, avoiding repeated sum() calls within each iteration.|
 | [AtCoder Beginner Contest 431 - problem_B](https://atcoder.jp/contests/abc431/tasks/abc431_b) | [atcoder4.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder4.ipynb) | Optimized performance by replacing O(N) list operations (like 'in' and 'remove') with O(1) set operations.|
 | [AtCoder Beginner Contest 432 - problem_B](https://atcoder.jp/contests/abc432/tasks/abc432_b) | [atcoder5.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder5.ipynb) |Confirmed that the str type supports direct indexing for character access (e.g., s[i]).　Reviewed basic techniques, such as swapping values within a list (e.g., a[i], a[j] = a[j], a[i]). |
-| [AtCoder Beginner Contest 433 - problem_A,B,C](https://atcoder.jp/contests/abc433/tasks) | [atcoder5.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder6.ipynb) |Implemented O(N^2) brute-force search using nested loops to find the nearest preceding element. |
+| [AtCoder Beginner Contest 433 - problem_A,B,C](https://atcoder.jp/contests/abc433/tasks) | [atcoder6.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder6.ipynb) |Implemented O(N^2) brute-force search using nested loops to find the nearest preceding element. |
 
 
 
