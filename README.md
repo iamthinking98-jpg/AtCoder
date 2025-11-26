@@ -7,7 +7,7 @@ This repository is my training log for AtCoder.　
 | [AtCoder Beginner Contest 430](https://atcoder.jp/contests/abc430) | A-Task (100) | [Qiita](https://qiita.com/iamthinking98/items/eba690b8573557dc5b83) |
 | [AtCoder Beginner Contest 431](https://atcoder.jp/contests/abc431) | A-Task (100), B-Task(200) | - |
 | [AtCoder Beginner Contest 432](https://atcoder.jp/contests/abc432) | A-Task (100)| - |
-| [AtCoder Beginner Contest 432](https://atcoder.jp/contests/abc433) | A-Task (100), B-Task(200), C-Task(TLE)| - |
+| [AtCoder Beginner Contest 433](https://atcoder.jp/contests/abc433) | A-Task (100), B-Task(200), C-Task(TLE)| - |
 
 
 
