@@ -10,7 +10,7 @@ This repository is my training log for AtCoder.　
 | [AtCoder Beginner Contest 433](https://atcoder.jp/contests/abc433) | A-Task (100), B-Task(200), C-Task(TLE)| - |
 | [AtCoder Beginner Contest 434](https://atcoder.jp/contests/abc434) | A-Task (100), B-Task(200)| - |
 | [AtCoder Beginner Contest 435](https://atcoder.jp/contests/abc435) | A-Task (100), B-Task(200)| - |
-
+| [AtCoder Beginner Contest 436](https://atcoder.jp/contests/abc436) | A-Task (100), B-Task(200)| - |
 
 
 # Practice Log
@@ -24,6 +24,7 @@ This repository is my training log for AtCoder.　
 | [AtCoder Beginner Contest 433 - problem_C](https://atcoder.jp/contests/abc433/tasks/abc433_c) | [atcoder6.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder6.ipynb) |Identified performance bottleneck in brute-force substring search. Nested loops with sorting resulted in $O(N^3)$ complexity, causing TLE. Need to refactor using linear scan approach.|
 | [AtCoder Beginner Contest 434 - problem_B](https://atcoder.jp/contests/abc434/tasks/abc434_b) | [atcoder7.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder7.ipynb) |Initially achieved AC with an O(NM) brute-force approach (`solution_original.py`). I refactored it to an O(N+M) linear scan algorithm to optimize calculation time for larger inputs and to robustly handle potential zero division risks. |
 | [AtCoder Beginner Contest 435 - problem_B](https://atcoder.jp/contests/abc435/tasks/abc435_b) | [atcoder8.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder8.ipynb) |The previous implementation calculated `sum(A[i:j+1])` from scratch in every iteration.I refactored the logic to update the total sum incrementally. This approach avoids unnecessary list copying and improves execution speed within the $O(N^3)$ constraints.|
+| [AtCoder Beginner Contest 436 - problem_C](https://atcoder.jp/contests/abc436/tasks/abc436_c) | [atcoder9.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder9.ipynb) |In this version, I optimized the program by switching from a 2D list to ``set`` to manage coordinate data. This change significantly reduces memory usage and improves lookup efficiency when checking for used coordinates, making the logic more scalable for larger grids.|
 
 
 
