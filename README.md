@@ -12,6 +12,7 @@ This repository is my training log for AtCoder.　
 | [AtCoder Beginner Contest 435](https://atcoder.jp/contests/abc435) | A-Task (100), B-Task(200)| - |
 | [AtCoder Beginner Contest 436](https://atcoder.jp/contests/abc436) | A-Task (100), B-Task(200)| - |
 | [AtCoder Beginner Contest 437](https://atcoder.jp/contests/abc437) | A-Task (100), B-Task(200)| - |
+| [AtCoder Beginner Contest 438](https://atcoder.jp/contests/abc438) | A-Task (100), B-Task(200)| - |
 
 
 # Practice Log
@@ -27,6 +28,8 @@ This repository is my training log for AtCoder.　
 | [AtCoder Beginner Contest 435 - problem_B](https://atcoder.jp/contests/abc435/tasks/abc435_b) | [atcoder8.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder8.ipynb) |The previous implementation calculated `sum(A[i:j+1])` from scratch in every iteration.I refactored the logic to update the total sum incrementally. This approach avoids unnecessary list copying and improves execution speed within the $O(N^3)$ constraints.|
 | [AtCoder Beginner Contest 436 - problem_C](https://atcoder.jp/contests/abc436/tasks/abc436_c) | [atcoder9.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder9.ipynb) |In this version, I optimized the program by switching from a 2D list to ``set`` to manage coordinate data. This change significantly reduces memory usage and improves lookup efficiency when checking for used coordinates, making the logic more scalable for larger grids.|
 | [AtCoder Beginner Contest 437 - problem_B](https://atcoder.jp/contests/abc437/tasks/abc437_b) | [atcoder_10.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder_10.ipynb) |I replaced nested loops with Python's set intersection (`&`) to find common elements. This change significantly reduces time complexity and makes the search logic more efficient.|
+| [AtCoder Beginner Contest 438 - problem_C](https://atcoder.jp/contests/abc438/tasks/abc438_c) | [atcoder_11.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder_11.ipynb) |Optimized performance by replacing $O(N^2)$ simulation logic using list slicing with an O(N) stack-based linear scan.|
+
 
 
 
