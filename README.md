@@ -13,6 +13,7 @@ This repository is my training log for AtCoder.　
 | [AtCoder Beginner Contest 436](https://atcoder.jp/contests/abc436) | A-Task (100), B-Task(200)| - |
 | [AtCoder Beginner Contest 437](https://atcoder.jp/contests/abc437) | A-Task (100), B-Task(200)| - |
 | [AtCoder Beginner Contest 438](https://atcoder.jp/contests/abc438) | A-Task (100), B-Task(200)| - |
+| [AtCoder Beginner Contest 440](https://atcoder.jp/contests/abc440) | A-Task (100), B-Task(200)| - |
 
 
 # Practice Log
@@ -29,7 +30,7 @@ This repository is my training log for AtCoder.　
 | [AtCoder Beginner Contest 436 - problem_C](https://atcoder.jp/contests/abc436/tasks/abc436_c) | [atcoder9.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder9.ipynb) |In this version, I optimized the program by switching from a 2D list to ``set`` to manage coordinate data. This change significantly reduces memory usage and improves lookup efficiency when checking for used coordinates, making the logic more scalable for larger grids.|
 | [AtCoder Beginner Contest 437 - problem_B](https://atcoder.jp/contests/abc437/tasks/abc437_b) | [atcoder_10.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder_10.ipynb) |I replaced nested loops with Python's set intersection (`&`) to find common elements. This change significantly reduces time complexity and makes the search logic more efficient.|
 | [AtCoder Beginner Contest 438 - problem_C](https://atcoder.jp/contests/abc438/tasks/abc438_c) | [atcoder_11.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder_11.ipynb) |Optimized performance by replacing $O(N^2)$ simulation logic using list slicing with an O(N) stack-based linear scan.|
-
+| [AtCoder Beginner Contest 440 - problem_C](https://atcoder.jp/contests/abc440/tasks/abc440_b) | [atcoder_12.ipynb - my_answer](https://github.com/iamthinking98-jpg/AtCoder/blob/main/atcoder_12.ipynb) |Replaced the dictionary with tuples for efficient default sorting and simplified output using unpacking.|
 
 
 
